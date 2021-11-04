@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tommoulard/fail2ban/files"
-	"github.com/tommoulard/fail2ban/ipchecking"
+	"github.com/junaid-ali/fail2ban/files"
+	"github.com/junaid-ali/fail2ban/ipchecking"
 )
 
 // IPViewed struct
